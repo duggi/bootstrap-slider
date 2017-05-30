@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-slider",
-  "version": "9.8.0",
+  "version": "9.8.1",
   "description": "Slider view component for Twitter Bootstrap.",
   "main": "dist/bootstrap-slider.js",
   "style": "dist/css/bootstrap-slider.css",
@@ -10,13 +10,13 @@
     "release": "sh ./scripts/release.sh",
     "update-gh-pages": "sh ./scripts/update-gh-pages.sh"
   },
-  "homepage": "http://github.com/seiyria/bootstrap-slider",
+  "homepage": "http://github.com//duggibootstrap-slider",
   "repository": {
     "type": "git",
-    "url": "git://github.com/seiyria/bootstrap-slider.git"
+    "url": "git://github.com/duggi/bootstrap-slider.git"
   },
   "bugs": {
-    "url": "http://github.com/seiyria/bootstrap-slider/issues"
+    "url": "http://github.com/duggi/bootstrap-slider/issues"
   },
   "author": "bootstrap-slider ",
   "contributors": [
@@ -29,7 +29,13 @@
       "name": "Rohit Kalkur",
       "twitter": "@Rovolutionary",
       "github": "rovolution"
+    },
+    {
+      "name": "Doug Lee",
+      "twitter": "@duggiwuggi",
+      "github": "duggi"
     }
+
   ],
   "keywords": [
     "slider",
