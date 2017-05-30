@@ -1,10 +1,11 @@
 {
-  "name": "seiyria-bootstrap-slider",
-  "version": "9.8.0",
-  "homepage": "https://github.com/seiyria/bootstrap-slider",
+  "name": "seiyria-bootstrap-slider-duggi",
+  "version": "9.8.1",
+  "homepage": "https://github.com/duggi/bootstrap-slider",
   "authors": [
     "Kyle Kemp <kyle@seiyria.com>",
-    "Rohit Kalkur <rohit.kalkur@gmail.com>"
+    "Rohit Kalkur <rohit.kalkur@gmail.com>",
+    "Doug Lee <douglee650@gmail.com>"
   ],
   "description": "a slider element for bootstrap 2/3",
   "main": [
